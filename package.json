@@ -1,0 +1,19 @@
+{
+  "name": "librarybot",
+  "version": "1.0.0",
+  "description": "Emily LOL",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dthelegend/LibraryBot.git"
+  },
+  "author": "Daudi Wampamba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dthelegend/LibraryBot/issues"
+  },
+  "homepage": "https://github.com/dthelegend/LibraryBot#readme"
+}
